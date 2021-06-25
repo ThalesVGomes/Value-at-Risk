@@ -1,4 +1,4 @@
-# value-at-risk
+# Value at risk (VaR)
 Python code to calculate the Value at Risk assuming a parametric T-Distribution of returns.
 Very useful to monitor your portfolio market risk.
 
