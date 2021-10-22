@@ -3,6 +3,7 @@ Python code to calculate the Value at Risk assuming a parametric T-Distribution 
 Very useful to monitor your portfolio market risk.
 
 You just need to provide the stock tickers and the desired date to calculate the VaR. Also supports EWMA model calculation.
+Note that the ticker name must be as found in https://finance.yahoo.com/.
 
 The code makes large use of numpy vectorization which makes it runs faster. (Normally less than 10 seconds, depends on your hardware)
 
